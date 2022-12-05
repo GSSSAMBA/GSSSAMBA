@@ -1,9 +1,9 @@
 ### <p align=center> Hi ,I'm Gauthier 👋 </p>
 
 
-Lovers of javascript technologies,
+<p align=center> Lovers of javascript technologies,
 
-Next goals Python and Elixir.
+Next goals Python and Elixir.</p>
 
 ##   <p align=center>💻   TECHNOLOGIES </p>
 
