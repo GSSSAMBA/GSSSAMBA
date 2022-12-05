@@ -1,12 +1,13 @@
 ### <p align=center> Hi ,I'm Gauthier 👋 </p>
 
 
-<p align=center> Lovers of javascript technologies,
+<p align=center> Lovers of javascript technologies,</p>
 
-Next goals Python and Elixir.</p>
+<p align=center>Next goals Python and Elixir.</p>
 
 ##   <p align=center>💻   TECHNOLOGIES </p>
 
+<p align=center>
 ![image](https://user-images.githubusercontent.com/101709822/205641149-923a55a8-fd26-44e5-bc55-6984f5d39d84.png)
 ![image](https://user-images.githubusercontent.com/101709822/205641375-c5223a4f-0fa9-40a5-a223-a7ea35be55ba.png)
 ![image](https://user-images.githubusercontent.com/101709822/205644392-fc722d00-ba8c-40d1-8c97-0c25d2ac3d12.png)
@@ -16,7 +17,7 @@ Next goals Python and Elixir.</p>
 ![image](https://user-images.githubusercontent.com/101709822/205643917-1f2d05be-2f78-4575-8d3d-18263725765b.png)
 ![image](https://user-images.githubusercontent.com/101709822/205644264-888c1c24-0bf6-4a95-91ec-fd7f6406831b.png)
 ![image](https://user-images.githubusercontent.com/101709822/205644285-86972e84-9628-40ac-b056-09a926964530.png)
-
+</p>
 
 <br/>
 
