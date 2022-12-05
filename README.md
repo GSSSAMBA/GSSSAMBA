@@ -31,6 +31,9 @@
  - [Linkedin](https://fr.linkedin.com/in/gauthier-samba-seale-b6286b247)
 
 
+## Acknowledgments
+Ce fichier readme est largement inspiré de celui de Thomas Guibert !
+
 
 
 
