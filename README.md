@@ -1,6 +1,5 @@
 ### Hi ,I'm Gauthier 👋
 
-<div text align: center>
 
 Lovers of javascript technologies,
 
@@ -20,7 +19,6 @@ Next goals Python and Elixir.
 ![image](https://user-images.githubusercontent.com/101709822/205642776-eb2bf0b8-a5b0-499d-9175-f7d6aea864c3.png)
 
 
-</div>
 
 
 
