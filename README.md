@@ -11,6 +11,10 @@ Next goals Python and Elixir.
 ![image](https://user-images.githubusercontent.com/101709822/205640926-2dd2be6c-c369-4ac8-8179-65069a9e7e9d.png)
 ![image](https://user-images.githubusercontent.com/101709822/205641044-72ccbc41-92f4-4057-9851-61b8d50b8062.png)
 ![image](https://user-images.githubusercontent.com/101709822/205643917-1f2d05be-2f78-4575-8d3d-18263725765b.png)
+![image](https://user-images.githubusercontent.com/101709822/205644264-888c1c24-0bf6-4a95-91ec-fd7f6406831b.png)
+![image](https://user-images.githubusercontent.com/101709822/205644285-86972e84-9628-40ac-b056-09a926964530.png)
+
+
 <br/>
 
 ![image](https://user-images.githubusercontent.com/101709822/205642679-e1ec0bd0-ab99-488d-a103-4979e5b7af99.png)
