@@ -33,6 +33,8 @@
 ## 📚I am studying now:
 
 ![image](https://user-images.githubusercontent.com/101709822/205655341-e456ef59-0d89-4585-88bc-c1412bd4cf69.png)
+![image](https://user-images.githubusercontent.com/101709822/205665931-cc57d550-ed0c-4393-a9e9-641ce9d28441.png)
+
 
 
 ## 📫  Contact me 
