@@ -27,11 +27,6 @@
 
 <br/>
 
-![image](https://user-images.githubusercontent.com/101709822/205642679-e1ec0bd0-ab99-488d-a103-4979e5b7af99.png)
-![image](https://user-images.githubusercontent.com/101709822/205642739-f79cc2e4-6240-4d0a-b509-c61e2e150666.png)
-![image](https://user-images.githubusercontent.com/101709822/205642776-eb2bf0b8-a5b0-499d-9175-f7d6aea864c3.png) 
-
-
 ## 📚I am studying now:
 
 ![image](https://user-images.githubusercontent.com/101709822/205655341-e456ef59-0d89-4585-88bc-c1412bd4cf69.png)
