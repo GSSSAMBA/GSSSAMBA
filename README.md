@@ -35,6 +35,9 @@
 This profile readme is greatly inspired by Nicolas Brondin-Bernard's one !
 
 
+<a href="https://github.com/thmsgbrt/thmsgbrt/edit/master/README.md">Thomas Guibert</a>
+
+
 
 
  
