@@ -1,4 +1,4 @@
-### Hi ,I'm Gauthier 👋
+### <p align=center> Hi ,I'm Gauthier 👋
 
 
 Lovers of javascript technologies,
@@ -30,7 +30,7 @@ Next goals Python and Elixir.
  - gauthieredc@gmail.com
  - [Linkedin](https://fr.linkedin.com/in/gauthier-samba-seale-b6286b247)
 
-
+</p>
 
 
 
