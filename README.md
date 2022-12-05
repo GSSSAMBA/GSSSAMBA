@@ -32,10 +32,10 @@
 
 
 ## Acknowledgments
-This profile readme is greatly inspired by Nicolas Brondin-Bernard's one !
+This profile readme is greatly inspired by <a href="https://github.com/thmsgbrt/thmsgbrt/edit/master/README.md">Nicolas Brondin-Bernard's</a> one !
 
 
-<a href="https://github.com/thmsgbrt/thmsgbrt/edit/master/README.md">Thomas Guibert</a>
+<a href="https://github.com/thmsgbrt/thmsgbrt/edit/master/README.md">Nicolas Brondin-Bernard's</a>
 
 
 
