@@ -5,7 +5,7 @@
 
 <p align=center>Next goals Python and Elixir.</p>
 
-##   💻  TECHNOLOGIES 
+##   💻  Various techs I use
 
 ![image](https://user-images.githubusercontent.com/101709822/205641149-923a55a8-fd26-44e5-bc55-6984f5d39d84.png)
 ![image](https://user-images.githubusercontent.com/101709822/205641375-c5223a4f-0fa9-40a5-a223-a7ea35be55ba.png)
@@ -32,7 +32,7 @@
 
 
 ## Acknowledgments
-Ce fichier readme est largement inspiré de celui de Thomas Guibert !
+This profile readme is greatly inspired by Nicolas Brondin-Bernard's one !
 
 
 
