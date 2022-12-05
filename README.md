@@ -32,16 +32,15 @@
 ![image](https://user-images.githubusercontent.com/101709822/205642776-eb2bf0b8-a5b0-499d-9175-f7d6aea864c3.png) 
 
 
-## 📫  Contact me 
-
- - gauthieredc@gmail.com
- - [Linkedin](https://fr.linkedin.com/in/gauthier-samba-seale-b6286b247)
-
-
 ## 📚I am studying now:
 
 ![image](https://user-images.githubusercontent.com/101709822/205655341-e456ef59-0d89-4585-88bc-c1412bd4cf69.png)
 
+
+## 📫  Contact me 
+
+ - gauthieredc@gmail.com
+ - [Linkedin](https://fr.linkedin.com/in/gauthier-samba-seale-b6286b247)
 
 
 ## Acknowledgments
