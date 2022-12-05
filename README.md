@@ -5,6 +5,8 @@ Lovers of javascript technologies,
 
 Next goals Python and Elixir.
 
+💻TECHNOLOGIES
+
 ![image](https://user-images.githubusercontent.com/101709822/205641149-923a55a8-fd26-44e5-bc55-6984f5d39d84.png)
 ![image](https://user-images.githubusercontent.com/101709822/205641375-c5223a4f-0fa9-40a5-a223-a7ea35be55ba.png)
 ![image](https://user-images.githubusercontent.com/101709822/205644392-fc722d00-ba8c-40d1-8c97-0c25d2ac3d12.png)
