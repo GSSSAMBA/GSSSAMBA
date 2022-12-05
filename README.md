@@ -1,11 +1,11 @@
-### <p align=center> Hi ,I'm Gauthier 👋
+### <p align=center> Hi ,I'm Gauthier 👋 </p>
 
 
 Lovers of javascript technologies,
 
 Next goals Python and Elixir.
 
-## 💻   TECHNOLOGIES
+##   <p align=center>💻   TECHNOLOGIES </p>
 
 ![image](https://user-images.githubusercontent.com/101709822/205641149-923a55a8-fd26-44e5-bc55-6984f5d39d84.png)
 ![image](https://user-images.githubusercontent.com/101709822/205641375-c5223a4f-0fa9-40a5-a223-a7ea35be55ba.png)
@@ -25,12 +25,11 @@ Next goals Python and Elixir.
 ![image](https://user-images.githubusercontent.com/101709822/205642776-eb2bf0b8-a5b0-499d-9175-f7d6aea864c3.png) 
 
 
-## 📫 Contact me
+## 📫 <p align=center> Contact me </p>
 
  - gauthieredc@gmail.com
  - [Linkedin](https://fr.linkedin.com/in/gauthier-samba-seale-b6286b247)
 
-</p>
 
 
 
