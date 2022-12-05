@@ -25,6 +25,12 @@ Next goals Python and Elixir.
 ![image](https://user-images.githubusercontent.com/101709822/205642776-eb2bf0b8-a5b0-499d-9175-f7d6aea864c3.png) 
 
 
+## 📫 Contact me
+
+ - gauthieredc@gmail.com
+ - [Linkedin](https://fr.linkedin.com/in/gauthier-samba-seale-b6286b247)
+
+
 
 
 
