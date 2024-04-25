@@ -1,4 +1,4 @@
-### <p align=center> Hi ,I'm Gauthier 👋 </p>
+### <p align=center> Hi , 👋 </p>
 
 
 <p align=center> Lovers of javascript technologies,</p>
